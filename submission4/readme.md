@@ -1,22 +1,29 @@
 unlisted youtube videos:
 https://youtu.be/dA5EyvaZEGE
 
+Conference submitted paper / paper submission / login Link:
+https://easychair.org/conferences/?conf=alta2022
+
+Paper title: 
+Medical Text Classification Using Graph Convolutional Network
+
 Paper presentation (anyone can view without login): 
 https://docs.google.com/presentation/d/1lkzT5SdE-aMBtvSB5rtoAY81bul1GvYQHmqJfTijeBI/edit?usp=sharing
 
-Conference submitted paper / paper submission / login Link: https://easychair.org/conferences/?conf=alta2022
+Paper submission date (to workshop/conference): 
+11 September 2022
 
-Paper title: Medical Text Classification Using Graph Convolutional Network
+Paper submission ID: (received) from conference/workshop 
+9528
 
-Paper submission date (to workshop/conference): 11 September 2022
+Conference Name: 
+ALTA 2022 (The 20th Annual Workshop of the Australasian Language Technology Association)
 
-Paper submission ID: (received) from conference/workshop 9528
+Conference URL:
+https://alta2022.alta.asn.au/
 
-Conference Name: ALTA 2022 (The 20th Annual Workshop of the Australasian Language Technology Association)
-
-Conference URL: https://alta2022.alta.asn.au/
-
-Group Number: 07
+Group Number: 
+07
 
 Group Members: 
 19101215 Rakibul Alam Nahin 
