@@ -1,3 +1,9 @@
+unlisted youtube videos:
+https://youtu.be/dA5EyvaZEGE
+
+Paper presentation (anyone can view without login): 
+https://docs.google.com/presentation/d/1lkzT5SdE-aMBtvSB5rtoAY81bul1GvYQHmqJfTijeBI/edit?usp=sharing
+
 Conference submitted paper / paper submission / login Link: https://easychair.org/conferences/?conf=alta2022
 
 Paper title: Medical Text Classification Using Graph Convolutional Network
