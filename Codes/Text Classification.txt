@@ -1,0 +1,1 @@
+Medical text classification using graph neural network algorithm. "mtsample " file database is used and sparse matrix was created and further passed for classification
